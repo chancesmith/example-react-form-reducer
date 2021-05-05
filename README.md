@@ -36,7 +36,7 @@ const initialState = {
   bySelling: BY_SELLING['ALL'],
   bySalesRangeStart: 0,
   bySalesRangeEnd: 100000,
-  bySalesRangeEnd: BY_SALES_RANGE_DROPDOWN['YTD'],
+  bySalesRangeDropdown: BY_SALES_RANGE_DROPDOWN['YTD'],
   byTag: [],
   byTagIsNot: false
 }
